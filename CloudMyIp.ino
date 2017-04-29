@@ -15,7 +15,7 @@ char dweetHostname[] = "dweet.io";
 int dweetPort = 443;
 const char* dweetFingerprint = "27 6F AA EF 5D 8E CE F8 8E 6E 1E 48 04 A1 58 E2 65 E8 C9 34";
 
-String dweetThingName("DL8BB");
+String dweetThingName("dweetThingName");
 
 // Time to sleep (in seconds):
 const int sleepTimeS = 600;
